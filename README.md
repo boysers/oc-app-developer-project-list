@@ -19,7 +19,7 @@
 | P13 | **Utilisez une API pour un compte utilisateur bancaire avec React** | [oc-ArgentBank-website](https://github.com/boysers/oc-ArgentBank-website) | `React` `TypeScript` `Redux` `Swagger` | ✅ |
 | P14 | **Faites passer une librairie jQuery vers React** |  | `React` | 🟧 |
 
-Légende | ✅ Terminé | 🟦 À valider | 🟨 En cours | 🟧 À faire |
+Légende | 🟧À faire | 🟨En cours | 🟦À valider | ✅Terminé |
 | :---: | :---: | :---: | :---: | :---: |
 
 
