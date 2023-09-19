@@ -11,7 +11,7 @@
 | P5 | **Testez vos compétences : les langages du Web** |  | `Test technique` `HTML` `CSS` `JavaScript` | 🟧 |
 | P6 | **Créez un site accessible pour une plateforme de photographes** |  | `JavaScript` `Accessibilité` | 🟧 |
 | P7 | **Développez un algorithme de recherche en JavaScript** |  | `Algorithme` `JavaScript` `Bootstrap` | 🟧 |
-| P8 | **Testez vos compétences : les algorithmes en JavaScript** | | `Algorithme` `JavaScript` | 🟧 |
+| P8 | **Testez vos compétences : les algorithmes en JavaScript** | | `Test technique` `Algorithme` `JavaScript` | 🟧 |
 | P9 | **Débuggez et testez un SaaS RH** |  | `Test unitaire` | 🟧 |
 | P10 | **Définissez les besoins pour une app de soutien scolaire** |  | `Agile` `User Story` | 🟧 |
 | P11 | **Développez une application Web avec React et React Router** | [oc-kasa](https://github.com/boysers/oc-kasa) | `React` `TypeScript` `React Router` `SASS` | ✅ |
