@@ -4,7 +4,7 @@
 
 | # | Nom | Repository | Technos & Librairies | Status |
 |-:|-|:-:|:-:|:-:|
-| P1 | **Prenez en main votre formation front-end** |  |  | 🟧 |
+| P1 | **Prenez en main votre formation front-end** |  |  | 🟨 |
 | P2 | **Transformez une maquette en site web avec HTML & CSS** | [oc-booki](https://github.com/boysers/oc-booki) | `HTML` `CSS` | ✅ |
 | P3 | **Dynamisez une page web avec des animations CSS** | [oc-ohmyfood](https://github.com/boysers/oc-ohmyfood/) | `HTML` `SASS` | ✅ |
 | P4 | **Créez une landing page avec Javascript** |  | `JavaScript` | 🟧 |
@@ -24,7 +24,5 @@ Légende | 🟧À faire | 🟨En cours | 🟦À valider | ✅Terminé |
 
 
 - ~~Début de formation : 4 septembre 2023~~
-- Début de formation : 2 octobre 2023
+- Début de formation : 20 septembre 2023
 - Fin de formation : ???
-
-
