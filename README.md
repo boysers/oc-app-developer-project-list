@@ -7,7 +7,7 @@
 | P1 | **Prenez en main votre formation front-end** |  |  | ✅ |
 | P2 | **Transformez une maquette en site web avec HTML & CSS** | [oc-booki](https://github.com/boysers/oc-booki) | `HTML` `CSS` | 🟨 |
 | P3 | **Dynamisez une page web avec des animations CSS** | [oc-ohmyfood](https://github.com/boysers/oc-ohmyfood) | `HTML` `SASS` | 🟨 |
-| P4 | **Créez une landing page avec Javascript** | [oc-GameOn-website-FR](https://github.com/boysers/oc-GameOn-website-FR) | `JavaScript` | 🟨 |
+| P4 | **Créez une landing page avec Javascript** | [oc-GameOn-website-FR](https://github.com/boysers/oc-GameOn-website-FR) | `JavaScript` | 🟦 |
 | P5 | **Testez vos compétences : les langages du Web** |  | `Test technique` `HTML` `CSS` `JavaScript` | 🟧 |
 | P6 | **Créez un site accessible pour une plateforme de photographes** | [oc-Front-End-Fisheye](https://github.com/boysers/oc-Front-End-Fisheye) | `JavaScript` `Accessibilité` | 🟨 |
 | P7 | **Développez un algorithme de recherche en JavaScript** |  | `Algorithme` `JavaScript` `Bootstrap` | 🟧 |
