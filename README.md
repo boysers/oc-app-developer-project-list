@@ -12,7 +12,7 @@
 | P6 | **Créez un site accessible pour une plateforme de photographes** | [oc-Front-End-Fisheye](https://github.com/boysers/oc-Front-End-Fisheye) | `JavaScript` `Accessibilité` | ✅ |
 | P7 | **Développez un algorithme de recherche en JavaScript** | [oc-les-petits-plats](https://github.com/boysers/oc-les-petits-plats) | `Algorithme` `JavaScript` `SASS` | 🟦 |
 | P8 | **Testez vos compétences : les algorithmes en JavaScript** | | `Test technique` `Algorithme` `JavaScript` | 🟦 |
-| P9 | **Débuggez et testez un SaaS RH** |  | `Test unitaire` | 🟨 |
+| P9 | **Débuggez et testez un SaaS RH** | [oc-billed-app](https://github.com/boysers/oc-billed-app) | `Test unitaire` | 🟨 |
 | P10 | **Définissez les besoins pour une app de soutien scolaire** |  | `Agile` `User Story` | 🟧 |
 | P11 | **Développez une application Web avec React et React Router** | [oc-kasa](https://github.com/boysers/oc-kasa) | `React` `TypeScript` `React Router` `SASS` | ✅ |
 | P12 | **Développez un tableau de bord d'analytics avec React** |  | `React` `API REST` | 🟧 |
