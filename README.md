@@ -15,7 +15,7 @@
 | P9 | **Débuggez et testez un SaaS RH** | [oc-billed-app](https://github.com/boysers/oc-billed-app) | `jQuery` `Teste d'intégration` `Teste unitaire` | 🟨 |
 | P10 | **Définissez les besoins pour une app de soutien scolaire** |  | `Agile` `User Story` | 🟧 |
 | P11 | **Développez une application Web avec React et React Router** | [oc-kasa](https://github.com/boysers/oc-kasa) | `React` `TypeScript` `React Router` `SASS` | ✅ |
-| P12 | **Développez un tableau de bord d'analytics avec React** | [oc-SportSee](https://github.com/boysers/oc-SportSee) | `React` `SASS` `TypeScript` `API REST` | 🟨 |
+| P12 | **Développez un tableau de bord d'analytics avec React** | [oc-SportSee](https://github.com/boysers/oc-SportSee) | `React` `SASS` `TypeScript` `API REST` | 🟦 |
 | P13 | **Utilisez une API pour un compte utilisateur bancaire avec React** | [oc-ArgentBank-website](https://github.com/boysers/oc-ArgentBank-website) | `React` `TypeScript` `Redux` `Swagger` | 🟦 |
 | P14 | **Faites passer une librairie jQuery vers React** |  | `React` | 🟧 |
 
