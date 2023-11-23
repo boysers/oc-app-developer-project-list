@@ -13,11 +13,11 @@
 | P7 | **Développez un algorithme de recherche en JavaScript** | [oc-les-petits-plats](https://github.com/boysers/oc-les-petits-plats) | `Algorithme` `JavaScript` `SASS` `vite` | ✅ |
 | P8 | **Testez vos compétences : les algorithmes en JavaScript** | | `Test technique` `Algorithme` `JavaScript` | ✅ |
 | P9 | **Débuggez et testez un SaaS RH** | [oc-billed-app](https://github.com/boysers/oc-billed-app) | `jQuery` `Test unitaire` `Jest` | ✅ |
-| P10 | **Définissez les besoins pour une app de soutien scolaire** |  | `Agile` `User Story` `Kanban` `use cases` | 🟨 |
+| P10 | **Définissez les besoins pour une app de soutien scolaire** |  | `Agile` `User Story` `Kanban` `use cases` | 🟦 |
 | P11 | **Développez une application Web avec React et React Router** | [oc-kasa](https://github.com/boysers/oc-kasa) | `React` `TypeScript` `React Router` `SASS` `CRA` | ✅ |
 | P12 | **Développez un tableau de bord d'analytics avec React** | [oc-SportSee](https://github.com/boysers/oc-SportSee) | `React` `Recharts` `SASS` `TypeScript` `vite` `vitest` `API REST` | ✅ |
 | P13 | **Utilisez une API pour un compte utilisateur bancaire avec React** | [oc-ArgentBank-website](https://github.com/boysers/oc-ArgentBank-website) | `React` `TypeScript` `Redux Toolkit` `Swagger` `CRA` | 🟦 |
-| P14 | **Faites passer une librairie jQuery vers React** | [oc-HRnet](https://github.com/boysers/oc-HRnet) | `React` `Redux Toolkit` `TypeScript` `vite` | 🟧 |
+| P14 | **Faites passer une librairie jQuery vers React** | [oc-HRnet](https://github.com/boysers/oc-HRnet) | `React` `Redux Toolkit` `TypeScript` `vite` | 🟨 |
 
 Légende | 🟧À faire | 🟨En cours | 🟦À valider | ✅Terminé |
 | :---: | :---: | :---: | :---: | :---: |
