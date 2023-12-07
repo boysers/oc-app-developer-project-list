@@ -25,4 +25,4 @@ Légende | 🟧À faire | 🟨En cours | 🟦À valider | ✅Terminé |
 
 - ~~Début de formation : 4 septembre 2023~~
 - Début de formation : 20 septembre 2023
-- Fin de formation : ???
+- Fin de formation : 10 décembre 2023
