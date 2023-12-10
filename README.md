@@ -17,7 +17,7 @@
 | P11 | **Développez une application Web avec React et React Router** | [oc-kasa](https://github.com/boysers/oc-kasa) | `React` `TypeScript` `React Router` `SASS` `CRA` | ✅ |
 | P12 | **Développez un tableau de bord d'analytics avec React** | [oc-SportSee](https://github.com/boysers/oc-SportSee) | `React` `Recharts` `SASS` `TypeScript` `Vite` `Vitest` `API REST` | ✅ |
 | P13 | **Utilisez une API pour un compte utilisateur bancaire avec React** | [oc-ArgentBank-website](https://github.com/boysers/oc-ArgentBank-website) | `React` `TypeScript` `Redux Toolkit` `Swagger` `CRA` | ✅ |
-| P14 | **Faites passer une librairie jQuery vers React** | [oc-HRnet](https://github.com/boysers/oc-HRnet) / [oc-hrnet-ui](https://github.com/boysers/oc-hrnet-ui) / [oc-hrnet-backend](https://github.com/boysers/oc-hrnet-backend) | `React` `Redux Toolkit` `TypeScript` `styled-components` `Vite` | 🟦 |
+| P14 | **Faites passer une librairie jQuery vers React** | [oc-HRnet](https://github.com/boysers/oc-HRnet) / [oc-hrnet-ui](https://github.com/boysers/oc-hrnet-ui) / [oc-hrnet-backend](https://github.com/boysers/oc-hrnet-backend) | `React` `Redux Toolkit` `TypeScript` `styled-components` `Vite` | ✅ |
 
 Légende | 🟧À faire | 🟨En cours | 🟦À valider | ✅Terminé |
 | :---: | :---: | :---: | :---: | :---: |
